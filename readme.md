@@ -1,0 +1,1 @@
+mirror from gcr.io/google_containers/flannel-amd64
